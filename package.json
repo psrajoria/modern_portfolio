@@ -1,0 +1,14 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio App",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch scss/ -o dist/css/ --recursive"
+  },
+  "author": "Pankaj Rajoria",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
